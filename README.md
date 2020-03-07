@@ -51,7 +51,7 @@ It is the most magic number for rootsize.
 
 Answer:
 CSS is primitive and incomplete. Building a function, reusing a definition or inheritance are hard to achieve.
-using preproccessor give you that ability to use these things plus it has set of css new syntax, it has compiler and output.
+using preproccessor give us that ability to use these things plus it has set of css new syntax, it has compiler and output.
 
 5. What is your favorite concept in preprocessing? What is the concept that gives you the most trouble?
 
